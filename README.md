@@ -1,6 +1,9 @@
 # myrepo
+
 ###About Me
+
 My name is **Zach Svoboda** and I am from *Bloomington, MN*
+
 Some fun facts about me:
 * I love Harry Potter
 * I am a GIS professional
