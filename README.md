@@ -1,6 +1,6 @@
 # myrepo
 
-###About Me
+### About Me
 
 My name is **Zach Svoboda** and I am from *Bloomington, MN*
 
